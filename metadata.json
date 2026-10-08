@@ -1,0 +1,6 @@
+{
+  "name": "Javia - UI/UX Mobile Edutainment Design Board",
+  "description": "Professional 10-screen UI/UX design presentation board and interactive mobile prototype for JAVIA, a Nusantara cultural history edutainment app focusing on Sunan Drajat and Lamongan heritage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
